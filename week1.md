@@ -16,7 +16,14 @@ program?, what are variables? etc. And by the end I was able to make my own pseu
 
 I learned about Ethics in research and how to conduct responsible research as a participant in the Summer AI Research Institute
 this summer. The crash course in machine learning was very informative and although I still have some questions about why we do
-certain things a certain way from a coding standpoint, I was able to get a good grasp on the theory of what machine learning and
-its processes are. We also learned about 
+certain things a certain way from a coding standpoint, I was still from a theory standpoint able to get a good grasp on the topic 
+such as what machine learning is? what are the processes of maching learning?,what is model optimization?, what is supervised learning
+and unsupervised learning? We also learned about a bit about creating data frames and numpy. I learned that Git is an open 
+source distrubutive version control system. I learned about what is version control and about merge conflicts.
+
+In all this week was I had a lot of new information thrown my way and in the beginning I was feeling a bit overwhelmed. However, now
+at the end looking back I was able to retain a lot more than I iniatially though I would.
+
+
 
 [Back](./)
