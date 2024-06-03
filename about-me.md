@@ -1,5 +1,5 @@
 ## About Me
 
 
-[Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
+[Linkedin Profile](https://www.linkedin.com/in/krystal-foster-b450bb228/)
 
