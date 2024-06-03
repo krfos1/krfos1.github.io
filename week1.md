@@ -22,7 +22,7 @@ and unsupervised learning? We also learned about a bit about creating data frame
 source distrubutive version control system. I learned about what is version control and about merge conflicts.
 
 In all this week was I had a lot of new information thrown my way and in the beginning I was feeling a bit overwhelmed. However, now
-at the end looking back I was able to retain a lot more than I iniatially though I would.
+at the end looking back I was able to retain a lot more than I iniatially thought I would.
 
 
 
