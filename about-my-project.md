@@ -11,7 +11,7 @@ Approach: During this project, I will design a chatbot using a low code framewor
 
 - show steps on how to build a chatbot using different frameworks.
 
--show which chatbot is most "trustworthy"
+- show which chatbot is most "trustworthy"
 
 
 Expected Outcome: The project is expected to highlight, what makes AI trustworthy and why it can be trusted. Formulate a curriculum to help educator build and  train chatbots of their own based on which chatbot is deemed "more trustworthy". 
