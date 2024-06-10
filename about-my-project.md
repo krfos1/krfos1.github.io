@@ -1,15 +1,19 @@
 ## About My Project
 
-mBot Neo
+Trustworthy AI
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: Chatbots can be used by educators to assist in the the classroom however, how can they know that the AI's responses will be trustworthy?
 
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+Approach: During this project, I will design a chatbot using a low code framework. I will accomplish the following: 
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+- answer questions about Trustworthy AI using chatbots.
+
+- show steps on how to build a chatbot using different frameworks.
+
+-show which chatbot is most "trustworthy"
+
+
+Expected Outcome: The project is expected to highlight, what makes AI trustworthy and why it can be trusted. Formulate a curriculum to help educator build and  train chatbots of their own based on which chatbot is deemed "more trustworthy". 
 
 
