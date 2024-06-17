@@ -26,3 +26,6 @@ in the articles which I was able to succesfully complete by Friday.
 
 In all this week had it's challenges but with quick readjustments I was able to complete the tasks for the week. And I look forward to 
 learning new things and being challenged in the next upcoming week.
+
+
+[Back](./)
